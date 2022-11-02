@@ -7,16 +7,13 @@
 
 header{
     background-color: #E6E6E6;
-    margin-bottom: 128px;
-    
-    
+    margin-bottom: 128px;  
 }
 
 .logo{
     display: block;
     margin: auto;
     padding: 20px;
-    
 }
 
 /* Estilo para Titulos y Subtitulos */
@@ -41,7 +38,6 @@ h2{
 
 /* Estilos para contenido general */
 .contenido{
-    
     margin: 20px;
 }
 
@@ -60,5 +56,4 @@ h3{
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
     text-align: center;
-    
 }
