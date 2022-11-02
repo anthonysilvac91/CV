@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+/* Encabezado de la Página */
+
+header{
+    background-color: #E6E6E6;
+    margin-bottom: 128px;
+    
+    
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+/* Estilo para Titulos y Subtitulos */
+.titulo{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    line-height: 80%;
+    padding: 10px;  
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+/* Estilos para contenido general */
+.contenido{
+    
+    margin: 20px;
+}
+
+.fechas{
+    padding-bottom: 20px;
+}
+
+footer{
+    margin-top: 128px;
+    background-color: #005677;
+}
+
+h3{
+    color:#FFFFFF;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    text-align: center;
+    
+}
