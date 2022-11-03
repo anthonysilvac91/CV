@@ -48,12 +48,21 @@ h2{
 footer{
     margin-top: 128px;
     background-color: #005677;
+    display: flex;
+    justify-content: center;
 }
 
-h3{
+h3 {
     color:#FFFFFF;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
     text-align: center;
+}
+
+i{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    
 }
